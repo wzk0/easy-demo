@@ -1,10 +1,13 @@
 # 简单的Python函数!
 
+---
+
 1. 从txt文件随机抽取:
 
-name: **randchoose**
+* name: 
+**randchoose**
 
-src:
+* src:
 ```
 import random
 
@@ -14,4 +17,10 @@ def randchoose(path):
 	result=lists[random.randint(0,len(lists)-1)]
 	return str(result)
   ```
-raw:
+* raw:
+https://raw.githubusercontent.com/wzk0/simple-python-demo/main/randchoose.py
+
+* usage:
+> randchoose(path)
+
+---
