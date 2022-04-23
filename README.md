@@ -4,7 +4,7 @@
 
 1. 从txt文件随机抽取:
 
-* name: 
+* name:
 **randchoose**
 
 * src:
